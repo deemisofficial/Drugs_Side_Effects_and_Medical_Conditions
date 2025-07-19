@@ -56,4 +56,7 @@ This project explores and analyzes relationships between prescribed drugs, their
 These plots collectively supported a deep Exploratory Data Analysis (EDA) phase and helped form the basis for further machine learning modeling. The insights also simulate real-world data storytelling crucial in roles like Data Scientist, Medical Analyst, or BI Specialist.
 These plots collectively supported a deep **Exploratory Data Analysis (EDA)** phase and helped form the basis for further **machine learning modeling**. The insights also simulate real-world data storytelling crucial in roles like **Data Scientist**, **Medical Analyst**, or **BI Specialist**.
 
+---
+Visualualize Data
+![correlation heatmap](correlation_heatmap.jpg)
 
