@@ -59,4 +59,5 @@ These plots collectively supported a deep **Exploratory Data Analysis (EDA)** ph
 ---
 Visualualize Data
 ![correlation heatmap](correlation_heatmap.jpg)
+![drug ratings by class](drug_ratings_by_class.jpg)
 
